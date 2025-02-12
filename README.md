@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=timeAuto&height=250&section=header&text=SnowTaro&fontSize=80&animation=fadeIn)   
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=45,timeAuto,timeAuto&height=250&section=header&text=snowtaro&fontSize=80&animation=fadeIn)
 
 ### Hi there 👋</br></br>
 
